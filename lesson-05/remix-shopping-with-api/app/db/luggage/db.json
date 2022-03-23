@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Small suitcase",
+      "description": "The smallest we have."
+    },
+    {
+      "id": "2",
+      "title": "Medium suitcase",
+      "description": "A decent size."
+    },
+    {
+      "id": "3",
+      "title": "Large suitcase",
+      "description": "If you have a lot of stuff."
+    }
+  ]
+}
